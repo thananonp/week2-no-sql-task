@@ -1,3 +1,3 @@
-# node-mongo
+# week-2-no-sql-task
 
-Demo with Node.js and mongoose (connecting Mongo Database)
+To start the project run `npm start` but this repo doesn't come with the database
